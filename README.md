@@ -1,71 +1,56 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Thanakrit%20Kamphutchuea&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
+# Hi there, I'm Thanakrit (buggy2002) 👋
 
-### 👋 Hello World! I'm Thanakrit (buggy2002)
+### 🚀 About Me
+I am a passionate **Software Developer** dedicated to building high-quality management systems and exploring the frontiers of AI and Automation. I thrive on creating efficient solutions for real-world business challenges.
 
-I am a **Software Developer** developer passionate about building efficient management systems and exploring the world of AI & Automation. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</div>
+- 🔭 I’m currently working on enhancing **Restaurant Management** and **AI-driven tools**.
+- 🌱 I’m currently deepening my knowledge in **Automation & Intelligence Systems**.
+- 💬 Ask me about **Next.js, Python, and System Architecture**.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-website.com)
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ My Tech Stack
 
-#### 🏢 Management Systems
-- **[Restaurant Management v2.0.0](https://github.com/buggy2002/Restaurant-Management-v2.0.0)** - A comprehensive solution for restaurant operations.
-- **[Leave Management System](https://github.com/buggy2002/leave-management-system)** - Streamlining employee leave requests and approvals.
-- **[Fleet Flow Car](https://github.com/buggy2002/fleet-flow-car)** - Advanced vehicle and fleet management.
-- **[Sale System](https://github.com/buggy2002/sale-system)** - Point of Sale (POS) and inventory management.
-
-#### 🤖 AI & Automation tools
-- **[AdBlend-AI](https://github.com/buggy2002/AdBlend-AI)** - AI-powered advertising content generation.
-- **[Limitless Chat](https://github.com/buggy2002/Limitless-Chat)** - Intelligent chatbot integration and management.
-- **[YouTube Transcript Getter](https://github.com/buggy2002/YouTube-Transcript-Getter-V3)** - Fast and reliable tool for grabbing YouTube transcripts.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 ---
 
-### 📊 GitHub Statistics
+### � Featured Work
+
+#### 🏢 Enterprise & Management
+*   **[Restaurant-Management-v2.0.0](https://github.com/buggy2002/Restaurant-Management-v2.0.0)** - A full-scale operation system for modern restaurants.
+*   **[Leave-Management-System](https://github.com/buggy2002/leave-management-system)** - Digitalizing employee workflows.
+*   **[Fleet-Flow-Car](https://github.com/buggy2002/fleet-flow-car)** - Smart tracking and fleet logistics.
+
+#### 🤖 AI & Innovation
+*   **[AdBlend-AI](https://github.com/buggy2002/AdBlend-AI)** - Leveraging AI for creative ad content generation.
+*   **[Limitless-Chat](https://github.com/buggy2002/Limitless-Chat)** - Creating seamless automated conversational experiences.
+*   **[YouTube-Transcript-Getter](https://github.com/buggy2002/YouTube-Transcript-Getter-V3)** - Data extraction utility for video content.
+
+---
+
+### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buggy2002&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggy2002&layout=compact&theme=radical&border_radius=10" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buggy2002&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="buggy2002's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggy2002&layout=compact&theme=vue-dark&hide_border=true" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buggy2002&theme=radical&hide_border=false" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buggy2002&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buggy2002&theme=radical&margin-w=15&margin-h=15&no-bg=true" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buggy2002&theme=radical&bg_color=1a1b27&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=buggy2002&theme=juicyfresh&margin-w=15&no-bg=true" width="100%" />
 </div>
 
 ---
 
-### 📫 Connect with me
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your Profile]
-- 🌐 Website: [Your Portfolio]
-
 <div align="center">
-  <br />
-  <img src="https://img.shields.io/badge/Focus-Building_Something_Cool-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Current_Status-Available_for_Projects-brightgreen?style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30" width="100%" />
 </div>
