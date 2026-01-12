@@ -47,15 +47,13 @@ I'm a **Software Developer** focused on building management systems and AI tools
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=buggy2002&theme=vue-dark" alt="GitHub Streak" />
-</div>
+</div> -->
 
----
-
-### 🏆 Achievements
+### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buggy2002&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/buggy2002/buggy2002/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
