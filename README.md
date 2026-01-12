@@ -2,12 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Thanakrit%20Kamphutchuea&fontSize=50&animation=fadeIn" width="100%" />
 </div>
 
+### 📊 GitHub Insights
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buggy2002&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buggy2002&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buggy2002&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buggy2002&theme=dracula&cache_seconds=1800" height="150" />
 </div>
 
-### � About Me
+### 👋 About Me
 I'm a **Software Developer** focused on building management systems and AI tools. I love creating efficient solutions and learning new technologies.
 
 - 🔭 Working on: **Restaurant Management** & **AI Tools**
@@ -38,7 +40,7 @@ I'm a **Software Developer** focused on building management systems and AI tools
 
 ### 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buggy2002&theme=dracula&no-bg=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=buggy2002&theme=dracula&margin-w=15&margin-h=15" width="100%" />
 </div>
 
 ---
@@ -51,7 +53,7 @@ I'm a **Software Developer** focused on building management systems and AI tools
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggy2002&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggy2002&layout=compact&theme=dracula&cache_seconds=1800" height="150" />
 </div>
 
 ---
@@ -69,5 +71,5 @@ I'm a **Software Developer** focused on building management systems and AI tools
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/pacman.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/src/assets/pacman.svg" width="100%" />
 </div>
