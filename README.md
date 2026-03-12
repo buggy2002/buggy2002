@@ -1,6 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:42b883&height=200&section=header&text=Thanakrit%20Kamphutchuea&fontSize=50&animation=fadeIn&fontColor=FFFFFF" width="100%" />
-</div>
+</div> -->
+
+# Hi I'm Thanakrit Kamphutchuea
 
 ### 👋 About Me
 I'm a **Software Developer** focused on building management systems and AI tools. I love creating efficient solutions and learning new technologies.
@@ -19,8 +21,7 @@ I'm a **Software Developer** focused on building management systems and AI tools
 | **Frontend** | <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,figma&theme=dark" /> |
 | **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mssql,supabase,mongodb,redis&theme=dark" /> |
 | **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=git,docker,aws,cloudflare,postman,linux&theme=dark" /> |
-| **AI & Auto** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,n8n&theme=dark" /> <img src="https://img.shields.io/badge/Runway-000000?style=flat-square&logo=runway&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="40" /> |
-
+| **AI & Auto** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,n8n&theme=dark" /> 
 ---
 
 ### 📂 Featured Projects
